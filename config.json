@@ -1,0 +1,14 @@
+{
+    "production": {
+        "label": "production",
+        "username": "user1",
+        "password": "password123",
+        "url": "http://cb-load-balancer-8503985.us-east-2.elb.amazonaws.com:8000"
+    },
+    "dev": {
+        "label": "dev",
+        "username": "user1",
+        "password": "password123",
+        "url": "http://cb-load-balancer-8503985.us-east-2.elb.amazonaws.com:8000"
+    }
+}
